@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+  
 
 ![](https://github-readme-stats.vercel.app/api?username=guaguastandup&show_icons=true&count_private=true)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guaguastandup&layout=compact) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guaguastandup&theme=dracula)](https://github.com/guaguastandup/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=guaguastandup&theme=dracula)](https://github.com/guaguastandup/github-readme-activity-graph)
