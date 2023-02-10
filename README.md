@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <a href="https://guaguastandup.github.io">
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/guaguastandup&right_color=pink" />
 </p>
-
-#### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-  
-
+ 
 ![](https://github-readme-stats.vercel.app/api?username=guaguastandup&show_icons=true&count_private=true)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guaguastandup&layout=compact) -->
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=guaguastandup&theme=dracula)](https://github.com/guaguastandup/github-readme-activity-graph)
+
+  
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
