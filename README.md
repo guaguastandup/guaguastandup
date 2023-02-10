@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/guaguastandup&right_color=pink" />
 </p>
 
+#### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![](https://github-readme-stats.vercel.app/api?username=guaguastandup&show_icons=true&count_private=true)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guaguastandup&layout=compact) -->
 
