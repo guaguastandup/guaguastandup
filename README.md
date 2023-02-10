@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
+<p>
+<img src="https://img.shields.io/static/v1?label=Blog&message=Guaguastandup&color=pink"/>
+<a href="https://guaguastandup.github.io">
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/guaguastandup&right_color=pink" />
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=guaguastandup&show_icons=true&theme=dark&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guaguastandup&theme=dark&layout=compact)
+
+![](https://activity-graph.herokuapp.com/graph?username=guaguastandup&theme=github)
+
