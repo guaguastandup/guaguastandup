@@ -4,7 +4,7 @@ on:
   # Run workflow automatically
   schedule:
     # Runs every hour, on the hour
-    - cron: '20 * * * *'
+    - cron: '26 * * * *'
 
 jobs:
   update-readme-with-blog:
