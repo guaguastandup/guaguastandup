@@ -30,4 +30,9 @@ Here are some ideas to get you started:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [x86](https://guaguastandup.github.io/csapp/x86/)
+- [高级数据库系统——课程笔记](https://guaguastandup.github.io/%E5%AD%98%E5%82%A8/%E9%AB%98%E7%BA%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/)
+- [haha](https://guaguastandup.github.io/ctf/%E4%B8%AD%E7%A7%91%E5%A4%A7ctf/)
+- [docker](https://guaguastandup.github.io/%E5%B7%A5%E5%85%B7/docker/)
+- [linux命令](https://guaguastandup.github.io/%E5%B7%A5%E5%85%B7/linux%E5%91%BD%E4%BB%A4/)
 <!-- BLOG-POST-LIST:END -->
