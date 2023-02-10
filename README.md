@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/static/v1?label=Blog&message=Guaguastandup&color=pink"/>
 <a href="https://guaguastandup.github.io">
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/guaguastandup&right_color=pink" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=guaguastandup&right_color=pink" />
 </p>
  
 ![](https://github-readme-stats.vercel.app/api?username=guaguastandup&show_icons=true&count_private=true)
