@@ -6,8 +6,11 @@
 - working on open-source project [zotero-pdf2zh](http://github.com/guaguastandup/zotero-pdf2zh)
 
 ☕️ **Donation** (Buy me a coffee~)
+
 请在备注中留下您希望出现在赞助者名单的姓名或昵称💗
 
+- 微信/支付宝
+  
 <table>
   <tr>
     <td style="text-align: center;" align="center">
@@ -23,5 +26,7 @@
   </tr>
 </table>
 
+- 🐳 [爱发电](https://afdian.com/a/guaguastandup)
+  
 [![guaguastandup's GitHub stats](https://github-readme-stats.vercel.app/api?username=guaguastandup)](https://github.com/anuraghazra/github-readme-stats)
 
