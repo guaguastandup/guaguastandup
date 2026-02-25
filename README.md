@@ -7,7 +7,7 @@
 
 ☕️ **Donation** (Buy me a coffee~)
 
-请在备注中留下您希望出现在[赞助者名单](https://github.com/guaguastandup/zotero-pdf2zh/blob/main/docs/sponsors.md)的姓名或昵称💗
+请在备注中留下您希望出现在[赞助者名单](./sponsors.md)的姓名或昵称💗
 
 感谢您的支持~ 
 
